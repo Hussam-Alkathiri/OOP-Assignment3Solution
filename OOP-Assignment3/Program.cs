@@ -20,8 +20,8 @@ namespace OOP_Assignment3
                 Console.WriteLine(t);
                 else
                     Console.WriteLine("The Ticket not found.");
-
             system.CountTicketsByType();
+
 
 
         }

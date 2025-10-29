@@ -52,7 +52,9 @@ namespace OOP_Assignment3.Model.Ticket_Booking_System
                     }
                 }
             }
-            Console.WriteLine("\n ______Ticket Indexer______");
+            Console.WriteLine("\n ______Ticket Usage______");
+            Console.WriteLine($"Regular Ticket : {regularCount}");
+
             Console.WriteLine($"VIP Ticket : {vipCount}");
             Console.WriteLine($"Backstage Ticket : {backstageCount}");
         }
